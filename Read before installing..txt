@@ -1,0 +1,5 @@
+Install visual studio code, and launch it and put the .txt in it, then delete the .txt by pressing on the file (F2).
+
+Errors?
+
+Add Nerox#4147
